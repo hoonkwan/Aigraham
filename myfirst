@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>교육인 에이그램</title>
+    <script>
+        function showMessage() {
+            alert('교육인 에이그램이 1월부터 시작합니다');
+        }
+    </script>
+</head>
+<body>
+    <a href="#" onclick="showMessage(); return false;">클릭하여 메시지 확인</a>
+</body>
+</html>
